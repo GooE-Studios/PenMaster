@@ -1,4 +1,4 @@
-# Houdini
+# PenMaster
 A Club Penguin private server written in Python for the AS2 protocol.
 
 ## Prerequisites
@@ -19,3 +19,6 @@ After you've installed the latest version of Python 2, navigate to the Houdini d
 
 ## Configuration
 All configuration settings are located in config.py.
+
+## Credits
+Ketnipz for Houdini. Thanks so much!
